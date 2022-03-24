@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.clock {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*margin: auto;*/
+	width: 100vw;
+	height: 100vh;
+	/*background: cyan;*/
+}
+
+.mystyle {
+	background: green;
+	padding: 5%;
+	font-size: 4em;
+	color: white;
+}
